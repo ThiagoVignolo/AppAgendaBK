@@ -1,0 +1,77 @@
+{
+	"codigo": "AB",
+    "nombre": "ALBACETE"
+}
+{
+	"codigo": "A",
+    "nombre": "ALICANTE"
+}
+{
+	"codigo": "AL",
+    "nombre": "ALMERIA"
+}
+{
+	"codigo": "AV",
+    "nombre": "AVILA"
+}
+{
+	"codigo": "BA",
+    "nombre": "BADAJOZ"
+}
+{
+	"codigo": "IB",
+    "nombre": "BALEARES"
+}
+{
+	"codigo": "B",
+    "nombre": "BARCELONA"
+}
+{
+	"codigo": "MA",
+    "nombre": "MÁLAGA"
+}
+
+);
+
+
+
+{
+    "nombre": "Isabel",
+    "apellidos": "Jiménez",
+    "email": "ijimenez@gmail.com",
+    "provincia": { 
+        "id": 9
+    }
+}
+{
+    "nombre": "Luisa",
+    "apellidos": "López",
+    "email": "llopez@gmail.com",
+    "provincia": { 
+        "id": 4
+    }
+}
+{
+    "nombre": "Eva",
+    "apellidos": "García",
+    "email": "egarcia@gmail.com",
+    "provincia": { 
+        "id": 4
+    }
+}
+{
+    "nombre": "Alicia",
+    "apellidos": "Pérez",
+    "email": "aperez@gmail.com",
+    "provincia": { 
+        "id": 4
+    }
+}
+{
+    "nombre": "Lola",
+    "apellidos": "Bermúdez",
+    "email": "lbermudez@gmail.com",
+    "provincia": { 
+        "id": 4
+    }
+}
